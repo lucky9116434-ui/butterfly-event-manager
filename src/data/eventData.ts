@@ -45,14 +45,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     description: 'Complete end-to-end wedding conceptualization, vendor management, setup, and seamless execution.',
     popular: true
   },
-  {
-    id: 's-wedding-decor',
-    title: 'Wedding Decoration',
-    category: 'wedding',
-    image: '/images/wedding-mandap.jpg',
-    description: 'Luxury mandap setups with cascading pink wisteria, white drapes, golden pillars, and fairytale garden lighting.',
-    popular: true
-  },
+  
   {
     id: 's-engagement',
     title: 'Engagement Ceremony',
@@ -75,20 +68,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     image: '/images/gallery-3.jpg',
     description: 'Vibrant kaleidoscope drapes, boho seating, cozy swings, floral photobooths, and festive setups.'
   },
-  {
-    id: 's-sangeet',
-    title: 'Sangeet & Dance Setup',
-    category: 'wedding',
-    image: '/images/service-corporate.jpg',
-    description: 'High-energy truss stage, intelligent LED moving lights, sound system, and glamorous photobooths.'
-  },
-  {
-    id: 's-reception',
-    title: 'Reception Decoration',
-    category: 'wedding',
-    image: '/images/gallery-1.jpg',
-    description: 'Grand reception stage design, crystal chandeliers, floral walls, and royal lounge arrangements.'
-  },
+
   {
     id: 's-birthday-party',
     title: 'Birthday Party Decoration',
@@ -157,33 +137,21 @@ export const SERVICES_LIST: ServiceItem[] = [
     description: 'Customized wooden 3D backdrops, velvet draping, LED neon neon signs, and elevated stage flooring.'
   },
   {
-    id: 's-entrance-decor',
-    title: 'Grand Entrance & Gate Decor',
-    category: 'decor',
-    image: '/images/gallery-7.jpg',
-    description: 'Royal canopy entrance tunnels, welcome board floral frames, and brass diya welcome lighting.'
-  },
-  {
     id: 's-housewarming',
     title: 'Housewarming / Vastu Shanti',
     category: 'decor',
-    image: '/images/gallery-9.jpg',
-    description: 'Pooja ghar flower decoration, mango leaf doorway garlands, rangoli flower mandala, and warm entry setups.'
+    image: '/images/gallery-7.jpg',
+    description: 'Pooja ghar flower decoration, mango leaf doorway garlands, rangoli flower mandala, and warm entry setups'
   },
+  
   {
     id: 's-corporate',
     title: 'Corporate Events & Launches',
     category: 'corporate',
     image: '/images/service-corporate.jpg',
     description: 'Annual corporate functions, product launches, office festive decor, conferences, and awards nights.'
-  },
-  {
-    id: 's-dj-lighting',
-    title: 'DJ, Sound & Stage Lighting',
-    category: 'entertainment',
-    image: '/images/hero-main.jpg',
-    description: 'Professional line-array audio systems, DJ setup, sharp light beams, haze machines, and cold pyro bursts.'
   }
+  
 ];
 
 export const GALLERY_ITEMS: GalleryItem[] = [
