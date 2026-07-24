@@ -47,18 +47,18 @@ export const SERVICES_LIST: ServiceItem[] = [
   },
   
   {
-    id: 's-engagement',
-    title: 'Engagement Ceremony',
-    category: 'wedding',
-    image: '/images/gallery-1.jpg',
-    description: 'Chic ring ceremony backdrops, velvet seating arrangements, flower hoops, and romantic ambiance.'
+    id: 's-birthday',
+    title: 'first birthday decoration',
+    category: 'bithday',
+    image: '/images/gallery-6.jpg',
+    description: ' Premium birthday decoration featuring customized themes, balloon arches, floral accents, cake table styling, LED lighting, photo booth setup, and memorable celebration décor for kids and adults.".'
   },
   {
-    id: 's-haldi',
-    title: 'Haldi Decoration',
-    category: 'wedding',
+    id: 's-birthday',
+    title: 'Birthday celebration',
+    category: 'birthday',
     image: '/images/gallery-9.jpg',
-    description: 'Traditional marigold floral arrangements, yellow drape canopy, brass urli decor, and festive vibes.',
+    description: 'ake every birthday unforgettable with creative themed decorations, elegant balloon arches, customized backdrops, stylish cake table setups, LED lighting, photo booths, and vibrant décor for kids and adults.',
     popular: true
   },
   {
