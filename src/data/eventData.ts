@@ -85,14 +85,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     description: 'Disney Princess, Superhero, Frozen, Jungle Safari, Cocomelon, and customized theme setups for kids.',
     popular: true
   },
-  {
-    id: 's-baby-shower',
-    title: 'Baby Shower (Dohale Jevan)',
-    category: 'decor',
-    image: '/images/gallery-2.jpg',
-    description: 'Traditional Krishna swing Jhula, balloon arches, floral frames, and heartwarming family setups.',
-    popular: true
-  },
+  
   {
     id: 's-naming-ceremony',
     title: 'Naming Ceremony (Barse)',
@@ -126,14 +119,14 @@ export const SERVICES_LIST: ServiceItem[] = [
     id: 's-flower-decor',
     title: 'Flower & Fresh Floral Setup',
     category: 'decor',
-    image: '/images/service-corporate.jpg',
+    image: '/images/gallery-2.jpg',
     description: 'Exotic carnations, orchids, roses, marigold garlands, and traditional temple sanctuary setups.'
   },
   {
     id: 's-stage-decor',
     title: 'Stage & Backdrop Design',
     category: 'decor',
-    image: '/images/gallery-1.jpg',
+    image: '/images/gallery-10.jpg',
     description: 'Customized wooden 3D backdrops, velvet draping, LED neon neon signs, and elevated stage flooring.'
   },
   {
