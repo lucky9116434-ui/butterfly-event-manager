@@ -267,12 +267,11 @@ export const FEATURED_PROJECTS: EventProject[] = [
   },
   {
     id: 'p2',
-    title: 'Krishna Swing Baby Shower (Dohale Jevan)',
-    category: 'Traditional Baby Shower',
+    title: 'Stage & Backdrop Design',
+    category: 'decor',
     location: 'Pimpri-Chinchwad',
-    description: 'Designed a sacred and cheerful Jhula swing decor surrounded by fresh carnations, green/red balloon arches, and custom Krishna cutouts that brought traditional charm to life.',
-    decorationStyle: 'Floral Swing Jhula with Organic Balloon Arch',
-    image: '/images/gallery-2.jpg'
+    description: 'Premium wooden 3D stage backdrops with elegant velvet draping, LED neon signs, floral installations, designer stage flooring, and luxury lighting for weddings, receptions, birthdays, corporate events, and special celebrations.',
+    image: '/images/gallery-10.jpg'
   },
   {
     id: 'p3',
